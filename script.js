@@ -27,3 +27,6 @@ const timesTwo = numbers.map(num => num * 2)
 console.log(numbers * 2)
 
 ///////////
+const numbers = [1, 2, , 5, 7]
+const squer = numbers.map(numbers => number ** 2)
+console.log(squer)
